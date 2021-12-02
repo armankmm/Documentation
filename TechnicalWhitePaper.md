@@ -1,4 +1,4 @@
-# EOS.IO Technical White Paper v2
+
 
 **March 16, 2018**
 
